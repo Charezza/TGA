@@ -1,1 +1,3 @@
 # TGA
+I'm trying to scrape the information available on the training.gov.au website and put it into a usable format.
+Getting the information has been OK, placing it into a usable format... Not so much...
